@@ -1,0 +1,7 @@
+node_modules/
+uploads/
+todo
+todo*
+envConfig.json
+.vscode
+firebase/alarmapp
