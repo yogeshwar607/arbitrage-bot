@@ -1,7 +1,7 @@
 require('../envVars');
 const config = require('nconf');
 const admin = require("firebase-admin");
-const serviceAccount = require("./alarmapp.json");
+const serviceAccount = require("../credentials.json");
 const fireBaseUrl = config.fireBaseUrl;
 
 admin.initializeApp({
