@@ -1,7 +1,8 @@
 node_modules/
 uploads/
+firebase/alarmapp.json
+firebase/alarmapp
 todo
 todo*
 envConfig.json
 .vscode
-firebase/alarmapp.json
