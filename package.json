@@ -37,6 +37,7 @@
     "papaparse": "^4.4.0",
     "pg": "^7.4.1",
     "qrcode": "^1.2.0",
+    "redis": "^2.8.0",
     "request": "^2.87.0",
     "request-promise": "^4.1.1",
     "sendgrid": "^5.2.3",

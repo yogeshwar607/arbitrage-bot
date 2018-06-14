@@ -35,8 +35,8 @@ function addDocument(db) {
         condition: "lessthan",
         frequency: "onlyonce",
         tpair: "btcusd",
-        userid: "1OCCxDT57VMiQQhLPJE4",
-        value: Math.random(),
+        userid: "GAsgm3ctSIvErrwc3hfN",
+        value: 6000,
     }).then(ref => {
         console.log('Added document with ID: ', ref.id);
     });
