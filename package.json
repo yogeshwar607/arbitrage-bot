@@ -15,6 +15,7 @@
     "bitfinex-api-node": "^2.0.0-beta.1",
     "body-parser": "^1.18.3",
     "boom": "^7.2.0",
+    "cloudscraper": "^1.5.0",
     "co": "4.6.0",
     "cors": "2.8.1",
     "crypto": "^1.0.1",
